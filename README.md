@@ -34,7 +34,7 @@ Users could deploy the reverse proxy on Cloudflare's global network without sett
 
 4. Add a CNAME DNS record for your custom domain. Concretely, enter the subdomain (or '@' for root) in the 'Name' field, enter the **second level domain** of your workers in the 'Target' field, and set 'Proxy status' to 'Proxied'.
 
-### Customize index.js
+### Customize ```main.js```
 
 Basically, there are a few constants on the top of the ```main.js``` file.
 
