@@ -82,4 +82,4 @@ const replace_dict = {
     'www.gstatic.com': '<Domain name of Workers-Proxy A>'
 }
 ```
-### Special Thanks to ```xiaoyang-liu-cs``` for his work in this project 
+## Special Thanks to ```xiaoyang-liu-cs``` for his work in this project 
